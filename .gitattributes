@@ -1,0 +1,8 @@
+Subject3.mat filter=lfs diff=lfs merge=lfs -text
+Subject4.mat filter=lfs diff=lfs merge=lfs -text
+Subject5.mat filter=lfs diff=lfs merge=lfs -text
+Subject6.mat filter=lfs diff=lfs merge=lfs -text
+Subject7.mat filter=lfs diff=lfs merge=lfs -text
+Subject8.mat filter=lfs diff=lfs merge=lfs -text
+Subject1.mat filter=lfs diff=lfs merge=lfs -text
+Subject2.mat filter=lfs diff=lfs merge=lfs -text
