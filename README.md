@@ -21,6 +21,6 @@ The following files are available:
 |resp|1×800|subject's button response, 1 is FF, 2 is UF|
 |acc|1×800|whether the subject responds correctly to the stimulus|
 |RT|1×800|the response time of the subject recorded in milliseconds|
-|sti|1×800|the stimulus represented by "1" to "40", wherein the first 8 stimulus represents FF and the remaining 32 represents UF|
+|sti|1×800|the stimulus numbered from "1" to "40", where the first 8 stimuli represent FF and the remaining 32 stimuli represent UF|
 |label2|1×800|0 is UF, 1 is FF, 2 is the subject's own face|
 |data|800×66×3000|the EEG signal|
