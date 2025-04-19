@@ -10,8 +10,6 @@ The following files are available:
 
 |File name|Format|Contents|
 |:----|:----|:----|
-|FF|jpg|8 student ID photos of the subjects who know each other used as FF stimuli|
-|UF|tif|32 frontal young faces from the CAS-PEAL-R1 dataset[2] used as UF stimuli|
 |Subject1-8|mat|The preprocessed EEG data with 6 labels|
 
 ## data structure
